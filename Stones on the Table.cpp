@@ -10,7 +10,6 @@ int main()
         for(int j=i+1; j<n; j++)
             if(s[i]==s[j] && (j-i)==1)
                 count++;
-
     cout<<count;
 
 }
