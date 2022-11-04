@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int t,x,arr[100];
+int t,x,arr[107];
 int main()
 {
     cin>>t;
